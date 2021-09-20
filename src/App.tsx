@@ -1,5 +1,5 @@
 import useFetch from "./hooks/useFetch";
-import styled, { createGlobalStyle } from "styled-components";
+import { createGlobalStyle } from "styled-components";
 import { Reset } from "styled-reset";
 import { IDataObj } from "./typings";
 import ShowList from "./components/ShowList";

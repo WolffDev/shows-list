@@ -5,6 +5,7 @@ const Wrapper = styled.div`
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
+  margin: 0 15px;
 `;
 
 const CategoryItem = styled.span<{active: boolean}>`
